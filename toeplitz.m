@@ -44,4 +44,4 @@ end
  
 Cxx = cell2mat(A);
  
-imagesc(Cxx
+imagesc(Cxx)
